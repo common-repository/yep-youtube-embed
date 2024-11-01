@@ -1,0 +1,11 @@
+.without_ampm{
+width:98px;
+}
+
+.without_ampm::-webkit-datetime-edit-ampm-field {
+   display: none;
+}
+
+.without_ampm::-webkit-clear-button {
+	margin-left: -10px; 
+}

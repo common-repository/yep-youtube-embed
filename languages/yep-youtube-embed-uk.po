@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube Embed Performance\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 03:50+0200\n"
+"PO-Revision-Date: 2020-02-06 03:55+0200\n"
+"Last-Translator: webamator <webamator@bigmir.net>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: yep-youtube-embed\n"
+
+#. Author of the plugin
+msgid "Webamator"
+msgstr "Webamator"
+
+#. Author URI of the plugin
+msgid "https://www.helper-wp.com/wordpress-freelancer/"
+msgstr "https://www.helper-wp.com/wordpress-freelancer/"
+
+#. Plugin Name of the plugin
+msgid "Youtube Embed Performance"
+msgstr "Youtube Embed Performance"
+
+#. Description of the plugin
+msgid "This plugin make your video in publications fast and responsive."
+msgstr ""
+"Цей плагін зробить завантаження публікацій з відео набагато швидшим а самі "
+"відео адаптивними."
+
+#. Plugin URI of the plugin
+msgid "https://www.helper-wp.com/plugins/youtube-embed-plugin-wordpress/"
+msgstr "https://www.helper-wp.com/plugins/youtube-embed-plugin-wordpress/"
+
+#: yep-youtube-embed/includes/webamator-check-plugins.php:30
+msgid "WA plugins"
+msgstr "WA plugins"
+
+#: yep-youtube-embed/includes/webamator-check-plugins.php:65
+msgid " and "
+msgstr " та "
+
+#: yep-youtube-embed/includes/webamator-check-plugins.php:78
+msgid "Plugins by Webamator"
+msgstr "Плагіни від Webamator-а"
+
+#: yep-youtube-embed/includes/webamator-check-plugins.php:79
+msgid "Thank you for use my plugins:"
+msgstr "Дякую що користуєтесь моїми плагінами:"
+
+#: yep-youtube-embed/includes/webamator-check-requirement.php:49
+#, php-format
+msgid ""
+" requires at least WordPress version 4.8.3. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+" потребує WordPress 4.8.3 або новіший. Ви використовуєте версію %s. Будь "
+"ласка, оновіть  WordPress та спробуйте ще раз."
+
+#: yep-youtube-embed/includes/webamator-check-requirement.php:69
+msgid " requires WooCommerce. Please install/enable it and try again."
+msgstr ""
+" потребує WooCommerce. Будь ласка, встановіть/увімкніть його та спробуйте ще "
+"раз."
+
+#: yep-youtube-embed/yep-youtube-embed.php:121
+#: yep-youtube-embed/yep-youtube-embed.php:127
+msgid "YouTube Embed"
+msgstr "YouTube Embed"
+
+#: yep-youtube-embed/yep-youtube-embed.php:133
+msgid "Settings"
+msgstr "Налаштування"
+
+#: yep-youtube-embed/yep-youtube-embed.php:227
+msgid "Settings for YEP"
+msgstr "Налаштування для YEP"
+
+#: yep-youtube-embed/yep-youtube-embed.php:237
+msgid "Shortcodes:"
+msgstr "Шорткоди:"
+
+#: yep-youtube-embed/yep-youtube-embed.php:239
+msgid "Simple shortcode:"
+msgstr "Простий шорткод:"
+
+#: yep-youtube-embed/yep-youtube-embed.php:241
+msgid "[yep_youtube]XXXXXXXXXXX[/yep_youtube]"
+msgstr "[yep_youtube]XXXXXXXXXXX[/yep_youtube]"
+
+#: yep-youtube-embed/yep-youtube-embed.php:243
+msgid "Shortcode with attributes:"
+msgstr "Шорткод з атрибутами:"
+
+#: yep-youtube-embed/yep-youtube-embed.php:245
+msgid ""
+"[yep_youtube width=\"XXX\" height=\"XXX\" nocookie=\"0\" controls=\"1\" "
+"start=\"0\"]XXXXXXXXXXX[/yep_youtube]"
+msgstr ""
+"[yep_youtube width=\"XXX\" height=\"XXX\" nocookie=\"0\" controls=\"1\" "
+"start=\"0\"]XXXXXXXXXXX[/yep_youtube]"
+
+#: yep-youtube-embed/yep-youtube-embed.php:266
+msgid "Options:"
+msgstr "Опції:"
+
+#: yep-youtube-embed/yep-youtube-embed.php:274
+msgid "Start at"
+msgstr "Початок"
+
+#: yep-youtube-embed/yep-youtube-embed.php:281
+msgid "Privacy Enhanced"
+msgstr "Конфіденційність"
+
+#: yep-youtube-embed/yep-youtube-embed.php:288
+msgid "Сontrols"
+msgstr "Елементи керування"
+
+#: yep-youtube-embed/yep-youtube-embed.php:302
+msgid "Empty or format XX:XX:XX (Hours:Minutes:Seconds)."
+msgstr ""
+"Залишить поле пустим або заповніть в форматі XX:XX:XX (години:хвилини:"
+"секунди)"
+
+#: yep-youtube-embed/yep-youtube-embed.php:310
+msgid "Enable privacy-enhanced mode."
+msgstr "Увімкнути режим підвищеної конфіденційності."
+
+#: yep-youtube-embed/yep-youtube-embed.php:318
+msgid "Show player controls."
+msgstr "Показувати елементи керування програвачем."
